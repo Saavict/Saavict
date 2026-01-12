@@ -1,7 +1,7 @@
 ```markdown
-# 👋 Olá — Meu Perfil
+# 👋 Olá — Prazer Sabrina Souza aqui!
 
-Sou um desenvolvedor iniciante.
+Sou um desenvolvedora iniciante.
 - 🌱 Iniciando na programação
 - 💞️ Interesse em design web e mobile
 
