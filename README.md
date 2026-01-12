@@ -1,13 +1,20 @@
+<h2>👋 Olá! Seja bem-vindo(a)</h2>
+
+<details>
+  <summary>👀 Sobre mim (clique)</summary>
+
+  - Estou interessado em aprender mais na área de **programação**
+  - Atualmente estou iniciando meus estudos
+  - Busco colaborar com **design web e mobile**
+</details>
+
+<details>
+  <summary>📫 Contato</summary>
+
+  📞 Telefone: +55 (11) 96122-2449  
+  📧 E-mail: v1c.saahaas@gmail.com
+</details>
+
 ```markdown
-<h1># 👋 Olá — Prazer Sabrina Souza aqui!<h1/>
-
-Sou um desenvolvedora iniciante.
-- 🌱 Iniciando na programação
-- 💞️ Interesse em design web e mobile
-
-Contato
-- 📞 +55 (11) 96122-2449  
-- 📧 v1c.saahaas@gmail.com
-
 Feito com ♥ — sempre aprendendo.
 ```
